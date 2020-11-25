@@ -34,7 +34,17 @@ shadowFg: colorAlpha0_18;                                    // la maggior parte
 // Slide
 slideFadeOutBg: colorAlpha0_3c;                              // animazione che c'è quando premi sulla freccia di un mex inoltrato (dalla chat al profilo)
 slideFadeOutShadowFg: windowShadowFg;                        // sempre parlando della animazione spiegata sopra, è la riga del lato destro che si sposta verso sinistra
-
+// Sidebar
+sideBarBg: color0;
+sideBarBgActive: colorDarker1_60; 
+sideBarBrRipple: colorLighter0_60;
+sideBarTextFg: color7;
+sideBarTextFgActive: color6;
+sideBarIconFg: color7;
+sideBarIconFgActive: color6;
+sideBarBadgeBg: color6;
+sideBarBadgeBgMuted: color7;
+sideBarBadgeFg: colorLighter7_20;
 // Image
 imageBg: color2;                                             // [UNTESTED]: quando la foto è meno grande delle dimensioni max
 imageBgTransparent: color7;                                  // sfondo immagine quando si tratta di una immagine con opacità, anche se questa non è richiesta
