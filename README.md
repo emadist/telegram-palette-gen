@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-git clone --depth 1 https://github.com/nixMonad/telegram-palette-gen ~/.telegram-palette-gen
+git clone --depth 1 https://github.com/xemadp/telegram-palette-gen ~/.telegram-palette-gen
 cd ~/.telegram-palette-gen
 ./telegram-palette-gen
 ```
